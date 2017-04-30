@@ -1,0 +1,2 @@
+2017-04-30 14:07:34,966 [9] INFO  HelloWorldClient.Program - Preparing to call the Hello World Service
+2017-04-30 14:07:35,848 [9] INFO  HelloWorldClient.Program - Hello World Service has returned

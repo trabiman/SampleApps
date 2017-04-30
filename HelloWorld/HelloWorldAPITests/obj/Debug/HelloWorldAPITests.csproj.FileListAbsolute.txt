@@ -1,0 +1,12 @@
+D:\Projects\HelloWorld\HelloWorldAPITests\obj\Debug\HelloWorldAPITests.csprojResolveAssemblyReference.cache
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\Logger\log4net.config
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\HelloWorldAPITests.dll.config
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\HelloWorldAPITests.dll
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\HelloWorldAPITests.pdb
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\HelloWorldAPI.dll
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\log4net.dll
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\HelloWorldAPI.pdb
+D:\Projects\HelloWorld\HelloWorldAPITests\bin\Debug\log4net.xml
+D:\Projects\HelloWorld\HelloWorldAPITests\obj\Debug\HelloWorldAPITests.dll
+D:\Projects\HelloWorld\HelloWorldAPITests\obj\Debug\HelloWorldAPITests.pdb

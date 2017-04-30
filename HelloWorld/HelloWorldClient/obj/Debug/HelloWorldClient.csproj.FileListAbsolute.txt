@@ -1,0 +1,25 @@
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.pdb
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.exe
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.pdb
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldAPI.dll
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\log4net.dll
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldAPI.pdb
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\log4net.xml
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.csprojResolveAssemblyReference.cache
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldClient\bin\Debug\Logger\log4net.config
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
+D:\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.exe
+D:\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.pdb
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\Logger\log4net.config
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.pdb
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldAPI.dll
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\log4net.dll
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldAPI.pdb
+D:\Projects\HelloWorld\HelloWorldClient\bin\Debug\log4net.xml
+D:\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.csprojResolveAssemblyReference.cache
+C:\Users\q835471\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldClient\bin\Debug\HelloWorldClient.exe.config
+C:\Users\q835471\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.exe
+C:\Users\q835471\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldClient\obj\Debug\HelloWorldClient.pdb

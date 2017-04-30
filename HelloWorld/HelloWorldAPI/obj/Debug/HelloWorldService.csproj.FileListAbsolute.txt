@@ -1,0 +1,5 @@
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb

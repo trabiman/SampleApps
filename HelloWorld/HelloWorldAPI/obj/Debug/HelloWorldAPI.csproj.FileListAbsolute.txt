@@ -1,0 +1,21 @@
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\bin\Debug\log4net.dll
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\bin\Debug\log4net.xml
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\bin\Debug\HelloWorldAPI.dll
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\bin\Debug\HelloWorldAPI.pdb
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\obj\Debug\HelloWorldAPI.dll
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\obj\Debug\HelloWorldAPI.pdb
+C:\Users\bharvey.GERMANY\Documents\Visual Studio 2015\Projects\HelloWorld2\HelloWorld\HelloWorldService\bin\Debug\Logger\log4net.config
+D:\Projects\HelloWorld\HelloWorldService\bin\Debug\Logger\log4net.config
+D:\Projects\HelloWorld\HelloWorldService\bin\Debug\HelloWorldAPI.dll
+D:\Projects\HelloWorld\HelloWorldService\bin\Debug\HelloWorldAPI.pdb
+D:\Projects\HelloWorld\HelloWorldService\bin\Debug\log4net.dll
+D:\Projects\HelloWorld\HelloWorldService\bin\Debug\log4net.xml
+D:\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldAPI.dll
+D:\Projects\HelloWorld\HelloWorldService\obj\Debug\HelloWorldAPI.pdb
+D:\Projects\HelloWorld\HelloWorldAPI\bin\Debug\Logger\log4net.config
+D:\Projects\HelloWorld\HelloWorldAPI\bin\Debug\HelloWorldAPI.dll
+D:\Projects\HelloWorld\HelloWorldAPI\bin\Debug\HelloWorldAPI.pdb
+D:\Projects\HelloWorld\HelloWorldAPI\bin\Debug\log4net.dll
+D:\Projects\HelloWorld\HelloWorldAPI\bin\Debug\log4net.xml
+D:\Projects\HelloWorld\HelloWorldAPI\obj\Debug\HelloWorldAPI.dll
+D:\Projects\HelloWorld\HelloWorldAPI\obj\Debug\HelloWorldAPI.pdb
